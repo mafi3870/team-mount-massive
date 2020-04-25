@@ -9,8 +9,8 @@ Alex Qaddourah, Marissa Fink, Vishal Narayanan, Abbie Amiotte, Neha Thakar
 
 ### Dataset
 
-<!--- ### More Sections -->
-
+<!--- ### Design Document -->
+https://www.lucidchart.com/invitations/accept/d9810bfe-2594-45cb-8f73-4ea4c4aa4eaa
 <!--- ### More Sections -->
 
 <!--- ### More Sections -->
